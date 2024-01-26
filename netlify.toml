@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/Gallery"
-  to = "/Gallery"
+  to = "/Gallery.html"
   status = 200
   force = true
