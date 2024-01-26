@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/Gallery"
+  to = "https://teamaveonracing.netlify.app/Gallery.html"
+  status = 200
+  force = true
